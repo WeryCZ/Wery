@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://werycz.github.io/Wery/
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
